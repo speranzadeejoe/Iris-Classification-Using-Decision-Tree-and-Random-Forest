@@ -34,27 +34,6 @@ This project implements classification models using Decision Tree and Random For
 - Trained with **100 estimators**.
 - Achieved improved accuracy on the test dataset.
 
-## 🔍 Results
-### Decision Tree Performance:
-| Metric       | Training Score | Testing Score |
-|-------------|---------------|--------------|
-| Accuracy    | **X.XXXX**     | **X.XXXX**   |
-| Precision   | **X.XXXX**     | **X.XXXX**   |
-| Recall      | **X.XXXX**     | **X.XXXX**   |
-| F1 Score    | **X.XXXX**     | **X.XXXX**   |
-| Cross-Validation Accuracy | **X.XXXX** |
-
-### Random Forest Test Accuracy:
-- **X.XXXX**
-
-### Feature Importance (Decision Tree)
-| Feature        | Importance |
-|---------------|------------|
-| PetalLengthCm | **X.XX**   |
-| PetalWidthCm  | **X.XX**   |
-| SepalLengthCm | **X.XX**   |
-| SepalWidthCm  | **X.XX**   |
-
 ## 📌 Conclusion
 - The **Random Forest model** achieved better accuracy compared to the Decision Tree model.
 - Feature importance analysis highlights that **petal dimensions** are the most influential in classification.
